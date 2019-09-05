@@ -1,0 +1,647 @@
+.wrapper{
+background-image: linear-gradient(to right top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.377)), url("../img/bull.jpg");
+background-size: cover;
+
+background-repeat: no-repeat;
+height: 100vh;
+}
+nav ul li{
+  display: inline-block;
+  list-style: none;
+  padding: 8px;
+
+}
+body{
+  height: 10px;
+}
+
+/* nav ul {
+
+} */
+.imges{
+  /* width: 20px;
+    height: 30px; */
+    /* margin-left: 60px; */
+    /* margin-bottom:  70px; */
+    color: white;
+  }
+    #buttons button2 {
+position: relative;
+ margin-top:  2000px;
+
+    }
+    #buttons button1 {
+      margin-bottom: 60px;
+      margin-left: 80px;
+
+    }
+
+
+
+
+.bobo img{
+height: 90px;
+}
+.baba img{
+height: 90px;
+
+}
+.boobs img{
+  height: 90px;
+}
+.babes img{
+  height: 90px;
+}
+
+.picture {
+  width: 50px;
+  height: 50px;
+}
+.home-nav {
+  display: flex;
+  justify-content: space-between;
+  color:white;
+
+}
+.bongi h1{
+margin-top: 250px;
+margin-right:  40px;
+color: white;
+
+
+}
+
+.bongi{
+  text-align: center;
+  color: white;
+
+}
+
+
+
+
+.button1{
+background-color: #F1C40F;
+margin-right: 50px;
+margin-bottom:  100px;
+height: 40px;
+width: 100px
+
+
+}
+
+.button2{
+background-color: #F1C40F;
+font-size: 30px;
+margin-left: 700px;
+margin-top: 44px;
+border: none;
+width: 280px;
+height: 100px;
+}
+#clouds {
+  display: flex;
+  justify-content: center;
+
+}
+#contact{
+  background-color: #f1f1f1;
+  margin-left: 50px;
+  width: 300px;
+  margin-top: -76px;
+
+}
+.home{
+  display: flex;
+  flex-direction: column;
+  padding: 15px;
+  background-color: #F1C40F;
+  color: white;
+}
+.home h2,p {
+  margin:0;
+
+}
+.button{
+  background-color: black;
+  color: white;
+  border: none;
+  width: 150px;
+  padding: 10px;
+}
+
+
+
+.input-group{
+  margin-left: 70px;
+  margin-top: 40px;
+  justify-content: space-between;
+}
+.input-field {
+  width: 150px;
+  background-color: transparent;
+  border: none;
+  border-bottom: 1px solid black;
+}
+.head{
+  margin-left: 40px;
+}
+.pictures{
+  display: flex;
+  font-size:2px;
+
+}
+
+
+.bonga img{
+  height:30px;
+
+}
+.sboshy{
+  text-align: center;
+}
+.sboshy p {
+  margin-bottom: 0;
+}
+.sboshana img{
+  height: 30px;
+
+
+}
+.mbasah {
+  text-align: center;
+}
+.mbasah h1{
+  font-size: 5px;
+}
+.mbasah img{
+  height: 20px;
+  font-size: 5px;
+}
+.noku {
+  text-align: center;
+}
+.noku h2{
+  font-size: 10px;
+}
+.noku img{
+  height: 20px;
+}
+.bonga {
+  text-align: center;
+}
+.bonga h3{
+  font-size: 10px;
+}
+.bongie {
+  text-align: center;
+}
+.bongie h4{
+  font-size: 10px;
+}
+.bongie img{
+  height:20px;
+}
+.sboshana {
+  text-align: center;
+}
+.sboshana h5{
+  font-size: 10px
+}
+.box {
+  background-color: #f1f1f1;
+  margin-right: 10px;
+  padding: 10px;
+  color: black;
+
+}
+.pharagrapha img{
+  width: 50px;
+height: 50px;
+}
+.pics{
+  display:flex;
+  justify-content: space-between;
+}
+.mrs{
+   text-align: center;
+
+}
+.sboshy {
+  background-color: #f1f1f1;
+}
+.pics{
+  background-color: #f1f1f1;
+}
+.bongas {
+  width: 100%;
+  display: flex;
+}
+.box2 {
+  background-color:#F1C40F;
+  width: 50%;
+  height:400px;
+
+
+  }
+.sine {
+  background-image: url(griller.jpeg);
+  background-size: cover;
+  width: 50%;
+  height: 400px;
+}
+
+  .sinerah{
+  text-align: center;
+  background-color: white;
+}
+
+
+
+
+  .khanya {
+    display: flex;
+  justify-content: space-between;
+
+  margin-right: 400px;
+  margin-left: 110px;
+    font-size: 10px;
+
+
+
+  }
+  .photo{
+    margin-left: 100px;
+  }
+  .photo2{
+    margin-left:  100px;
+
+
+
+  }
+.makhanya{
+  text-align: center;
+  color: black;
+  margin-top: 40px;
+
+}
+.phiwo{
+  text-align: center;
+  background-color:#f1f1f1f1;
+}
+.heading3{
+  background-color: #f1f1f1;
+}
+.lucy {
+  display: flex;
+  justify-content: space-around;
+}
+.heading3 {
+  display: flex;
+  justify-content: space-around;
+}
+.pharagraphs {
+  background: #f1f1f1;
+  margin-left: 10px;
+}
+.pharagraphs img {
+  width: 40px;
+  height: 40px;
+}
+.chapter{
+  text-align: center;
+}
+.olwethu{
+  text-align: center;
+
+}
+.bongie h1{
+  font-size: 50px;
+}
+
+.alaska{
+  text-align: center;
+  background-color: #F1C40F;
+  /* width: 500px; */
+  height:100px;
+  display: flex;
+  margin: 49px;
+
+}
+.alaska h1{
+  transform: translateX(106px);
+}
+.alaska h2{
+  transform: translateY(25px);
+}
+.alaska img{
+  width:50px;
+  height:50px;
+  transform: translateX(-550px) translateY(-20px);
+  /* margin-right: 1400px;
+  margin-bottom:  5px;
+  margin-top: 5px; */
+
+
+
+}
+.butt{
+  text-align: center;
+  transform: translateX(350px) translateY(30px);
+}
+.butt button{
+  background-color: #F1C40F;
+  border: 1px solid black;
+  padding: 12px;
+}
+.black{
+  background-color: #333333;
+position: relative;
+bottom: 50px
+}
+.massage{
+  display: flex;
+}
+.massage{
+
+font-size: 10px;
+
+
+color: white;
+height: 350px;
+
+}
+.envelope img{
+  color: white;
+
+
+}
+.zibha{
+  z-index: 1;
+}
+.khanyakuhle{
+  font-size: 15px;
+  margin-right: 500px;
+}
+#sinerah{
+  text-align: center;
+
+}
+.hatts{
+  display: flex;
+  color: white;
+  justify-content: space-between;
+}
+.black img{
+width: 20px;
+height: 20px;
+}
+.sinerah{
+  background-color: #f1f1f1f1;
+}
+.testimonials{
+  background-color: #f1f1f1;
+}
+.makhanya button{
+  padding: 5px;
+  border-bottom:2px solid black;
+b
+;
+
+
+}
+.alaska h1{
+color: white;
+}
+.alaska h2{
+  color: white;
+}
+.massage{
+  background-color: black;
+  height: 40px;
+  margin-right: 40px;
+  margin-left: 40px;
+margin-bottom: 5px;
+margin-top: 5px;
+padding: 30px
+}
+.information img{
+  transform: translateY(-59px);
+}
+.information{
+  background: #FAA008;
+  margin: 50px;
+  display: flex;
+  height: 120px;
+  justify-content: space-between;
+}
+.headings h2{
+  transform: translateX(20px)translateY(-19px);
+  font-size: 20px;
+
+
+}
+.headings h1 {
+  transform: translateX(20px) translateY(-10px);
+  font-size: 20px;
+}
+.headings {
+  transform: translateX(190px) translateY(-150px);
+  border-left: 2px solid grey;
+  height: 50px;
+  color: white;
+}
+.btn-content button{
+  transform: translateX(-100px) translateY(40px);
+  padding: 15px;
+  font-size: 15px;
+  background-color: #FAA008;
+  border: 2px solid black;
+}
+.last-content{
+  background-color: rgba(0, 0, 0, 0.884);
+  transform: translateY(-159px);
+  height: 100px;
+}
+.div{
+  display: flex;
+  justify-content: space-around;
+  color: white;
+}
+.visit i{
+  transform: translateY(35px);
+}
+.contact img{
+  transform: translateY(35px);
+}
+.email i{
+  transform: translateY(35px);
+}
+.call-us p{
+  transform: translateY(-15px);
+}
+.call-us{
+  transform: translateX(47px) translateY(-19px);
+
+}
+.email-us{
+  transform: translateX(47px) translateY(-19px);
+
+}
+.visit-us p{
+  transform: translateY(-15px);
+
+}
+.visit-us{
+  transform: translateX(47px) translateY(-19px);
+
+}
+.email-us p{
+  transform: translateY(-15px);
+
+}
+.last-section{
+  /* background: black; */
+  /* transform: translateY(-159px); */
+  display: flex;
+  justify-content: space-around;
+  height: 100px;
+  z-index: -1;
+}
+.hat-container{
+  display: flex;
+}
+.hat-container p{
+  transform: translateX(20px);
+}
+.serve{
+  display: flex;
+}
+.nav-content{
+  display: flex;
+}
+.nav-content p{
+  padding: 10px;
+}
+.serve p{
+  padding: 10px;
+}
+.six li  a:hover{
+  color: yellow;
+
+}
+.six li a{
+  text-decoration: none;
+  color: white;
+
+
+}
+nav {
+  position: fixed;
+  margin-left: 200px;
+  background-color: #666666;
+  width: 70%;
+}
+.home-container{
+  background: black;
+  height: 300px;
+  transform: translateY(-50px);
+  color: white;
+  height: 110px;
+  font-size: 10px;
+}
+.icons-container{
+  display: flex;
+  justify-content: space-around;
+}
+.libo img{
+  width: 70px;
+
+}
+.accp{
+  background-color: #666666;
+  display: flex;
+  justify-content: space-between;
+  color: white;
+  position: relative;
+  bottom: 50px;
+
+
+
+}
+.libosh{
+  margin-right: 250px;
+}
+.bongwe{
+  margin-right: 300px;
+}
+.bbb{
+  margin-right: 100px;
+}
+.last{
+  background-color: #666666;
+  color:white;
+  font-size: 10px;
+  position: relative;
+  bottom: 54px;
+  display: flex;
+  margin-right: 10px;
+
+
+}
+.lastyy{
+  margin-top:100px;
+  margin-right:  10px;
+}
+.lasty{
+  margin-top: 100px;
+}
+.lasty h1{
+  margin-left: 80px;
+
+}
+.lasty h2{
+  margin-left: 80px;
+
+}
+.lastyy img{
+  margin-left: 20px;
+  width: 25px;
+  height: 25px;
+  background-color: black;
+  margin-top: 25px;
+
+}
+.news{
+  text-align: center;
+   background-color:#666666;
+   color: white;
+   position: relative;
+   bottom: 74px;
+   font-size: 11px;
+
+}
+ .news button{
+   padding: 1px;
+  width: 250px;
+  margin-left: 420px;
+  background-color:#666666;
+  color: white;
+
+
+
+
+
+border-bottom:1px solid
+order-left: 1px solid
+border-right: 1px solid
+border-top: 1px solid
+
+
+
+
+}
+.news h1{
+
+
+}
